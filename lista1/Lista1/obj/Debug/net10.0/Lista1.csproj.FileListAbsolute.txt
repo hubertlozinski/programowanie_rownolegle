@@ -1,0 +1,14 @@
+C:\programowanie_rownolegle\lista1\Lista1\bin\Debug\net10.0\Lista1.exe
+C:\programowanie_rownolegle\lista1\Lista1\bin\Debug\net10.0\Lista1.deps.json
+C:\programowanie_rownolegle\lista1\Lista1\bin\Debug\net10.0\Lista1.runtimeconfig.json
+C:\programowanie_rownolegle\lista1\Lista1\bin\Debug\net10.0\Lista1.dll
+C:\programowanie_rownolegle\lista1\Lista1\bin\Debug\net10.0\Lista1.pdb
+C:\programowanie_rownolegle\lista1\Lista1\obj\Debug\net10.0\Lista1.GeneratedMSBuildEditorConfig.editorconfig
+C:\programowanie_rownolegle\lista1\Lista1\obj\Debug\net10.0\Lista1.AssemblyInfoInputs.cache
+C:\programowanie_rownolegle\lista1\Lista1\obj\Debug\net10.0\Lista1.AssemblyInfo.cs
+C:\programowanie_rownolegle\lista1\Lista1\obj\Debug\net10.0\Lista1.csproj.CoreCompileInputs.cache
+C:\programowanie_rownolegle\lista1\Lista1\obj\Debug\net10.0\Lista1.dll
+C:\programowanie_rownolegle\lista1\Lista1\obj\Debug\net10.0\refint\Lista1.dll
+C:\programowanie_rownolegle\lista1\Lista1\obj\Debug\net10.0\Lista1.pdb
+C:\programowanie_rownolegle\lista1\Lista1\obj\Debug\net10.0\Lista1.genruntimeconfig.cache
+C:\programowanie_rownolegle\lista1\Lista1\obj\Debug\net10.0\ref\Lista1.dll
